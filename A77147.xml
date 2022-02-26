@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something concerning the proceedings of Thomas Willmate, vicar of the parish of Bromsgrove, in the county of Worcester, against me John Boweter, (who am a prisoner for the testimony of Christ Jesus) with a salutation of love to my loving and kind neighbours.</title>
+            <author>J. B. (John Bowater), d. 1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77147</idno>
+            <idno type="STC">Wing B3870B</idno>
+            <idno type="STC">ESTC R221226</idno>
+            <idno type="EEBO-CITATION">45578170</idno>
+            <idno type="OCLC">ocm 45578170</idno>
+            <idno type="VID">172127</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77147)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172127)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something concerning the proceedings of Thomas Willmate, vicar of the parish of Bromsgrove, in the county of Worcester, against me John Boweter, (who am a prisoner for the testimony of Christ Jesus) with a salutation of love to my loving and kind neighbours.</title>
+                  <author>J. B. (John Bowater), d. 1704.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from p. 4.</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wilmot, Thomas, 1644 or 5-1699.</term>
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172127:1" rendition="simple:additions"/>
+            <head>Something concerning the Proceedings of <hi>Thomas Willmate,</hi> Vicar of the Pariſh of <hi>Bromſ<g ref="char:EOLhyphen"/>grove,</hi> in the County of <hi>Worceſter,</hi> againſt me <hi>John Boweter,</hi> (who am a Priſoner for the Te<g ref="char:EOLhyphen"/>ſtimony of Chriſt Jeſus) with a <hi>Salutation</hi> of <hi>Love</hi> to my loving and kind Neighbours.</head>
+            <p>MAny have been the <hi>Troubles</hi> of the <hi>Righteous,</hi> but the Lord hath been their Deliverer, who ſaid, <hi>I will not leave you Comfortleſs:</hi> He hath been a Comfort unto us in the time of our Affliction, who hath made a Priſon like a Palace unto us, as in faithfulneſs we have given up all for his Name-ſake, and ſuffered the ſpoiling of our Goods chearfully, we have not loſt our Reward, we have had peace in the Lord (when our Adverſa<g ref="char:EOLhyphen"/>ries have been tormented) and the Promiſe of Chriſt in the World to come, which is Life Everlaſting: And the Apoſtle <hi>Paul,</hi> who had a part in ſufferings, ſaid, <hi>I reckon the Sufferings of this preſent Life is not to be compared to the Glory that ſhall be re<g ref="char:EOLhyphen"/>vealed.</hi> This is that which makes our Sufferings comfortable unto us; this Recompence <hi>Moſes</hi> had an Eye unto, <hi>who refuſed the Glory of</hi> Aegypt, <hi>chuſing rather to ſuffer Affliction with the People of God, than to enjoy the Pleaſures of Sin for a ſeaſon; counting the Reproach of Chriſt greater Riches than all the Treaſure of</hi> Aegypt.</p>
+            <p>But ſome may ſay, <hi>Ye</hi> Quakers <hi>thruſt your ſelves into Sufferings; What matter of Conſcience is it to detain your Tythe from a Miniſter?</hi>
+            </p>
+            <p>To this I <hi>Anſwer:</hi> Some years ago, <hi>Thomas Willmate,</hi> Vicar of the Pariſh of <hi>Bromſgrove</hi> (a profeſt Miniſter of the Goſpel, but not in the Practice of the true Goſpel Miniſters in the primi<g ref="char:EOLhyphen"/>tive Times) in which Pariſh I have had my abode from my Childhood) he ſending to me to demand Tythe, I not being ſatisfied in my Spirit concerning paying Tythe in theſe Goſpel times, I went unto him, expecting he might have ſatisfied me, or he have been ſatisfied with my Propoſal, which was this; <hi>If
+<pb n="2" facs="tcp:172127:2"/>
+he could prove himſelf a Miniſter of the Goſpel, and Tythe a Goſpel Maintenance, I would pay him Tythe:</hi> But being he neither did, nor could make out to me by the Scripture, I refuſed to pay him; becauſe Chriſt (who is a Prieſt unto God, and hath put an end to that Prieſthood that Tythe was to be paid unto) ſaid, <hi>Every Plant that my heavenly Father hath not planted, ſhall be rooted up,</hi> Mat. 15.13. I never read in the Scripture of the New Teſta<g ref="char:EOLhyphen"/>ment, that Chriſt ever ordained Tythe to be a Maintenance for his Miniſters, neither was Tythe eſtabliſhed by his holy Apoſtles for a Maintenance for Miniſters, but rather in the time of <hi>Popery,</hi> when that Apoſtatizing Spirit was entred, of which <hi>Jude</hi> ſpoke, <hi>Jude</hi> 11. <hi>Who run greedily after the Error of</hi> Balaam <hi>for Reward,</hi> who were not content with ſuch things as were ſet before them; ſtirred up the Rulers to make Laws to compel a Maintenance, being departed from that purity that was in the primitive Church; and ſo not content to receive freely of the Lord, and ſo to adminiſter freely, but in the ſteps of thoſe Chriſt ſpoke of, <hi>That ſhould come in Sheeps Cloathing, but inwardly ravening Wolves.</hi> Tythe was not a Maintenance appointed by Chriſt nor his Apoſtles for Miniſters, for it belonged to the Tribe of <hi>Levi</hi> in the time of the Law, who were for the offer<g ref="char:EOLhyphen"/>ing up of Sacrifices; they were to ſet open their Gates that the Widdow, Fatherleſs and Strangers might be relieved. But Chriſt being come and offered up, became the compleat Sa<g ref="char:EOLhyphen"/>crifice to God for us, and a Reconciler betwixt God and Man, and ſo no need of that Prieſthood now; <hi>The Prieſthood being changed, there is made of neceſſity a change of the Law alſo,</hi> Heb. 7.</p>
+            <p>But ſome may ſay, <hi>Did not Chriſt ſay, in</hi> Luke 11.42. <hi>Ye Tythe Mint, Rue, and all manner of Herbs, theſe things ye ought to do?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This was not ſpoke to his Miniſters, nor to <hi>Chriſtians,</hi> to eſtabliſh Tythe amongſt them, but to thoſe that were under the Law, and were boaſting of their Righteouſneſs under the Law; for Chriſt ſaid, <hi>Wo unto you Scribes, Phariſees and Hypo<g ref="char:EOLhyphen"/>crites, for ye pay Tythe of Mint, Annis, &amp;c. and omit or neglect the weighty matters of the Law,</hi> Mat. 23.23. Theſe were not Chriſtians, but were under the Law, which Law Chriſt came to fulfill, and did <hi>fulfill the Law, which was a Shadow of the good things to come.</hi> Now Chriſt, who is the Subſtance, being come, the Sha<g ref="char:EOLhyphen"/>dows were to paſs away. And ſo, Chriſt being <hi>the end of the
+<pb n="3" facs="tcp:172127:2"/>
+Law for Righteouſneſs ſake to every one that believes,</hi> Rom. 10.4. <hi>Who being nailed to the Croſs, became a Sacrifice acceptable with the Fa<g ref="char:EOLhyphen"/>ther.</hi> And ſo, this acceptable Sacrifice being once offered up for all, there is no need now of thoſe former Shadows nor Ceremo<g ref="char:EOLhyphen"/>nies that were in the time of the Law: No need now of thoſe Prieſts to offer up Sacrifices: No need now of offering as former<g ref="char:EOLhyphen"/>ly; for Chriſt is the Offering acceptable with God, whom God raiſed up from the dead; he hath led Captivity captive, and gi<g ref="char:EOLhyphen"/>ven Gifts unto men, by which Gifts of his holy Spirit many were furniſhed for the Work of the Miniſtry, and were faithful Labourers in the Work and Service of the Lord, not ſeeking their own Honour, but the Honour of God, and the Good of Souls; <hi>Not coveting any mans Silver, Gold or Apparel, but la<g ref="char:EOLhyphen"/>bouring to bring them unto the Lord:</hi> Theſe freely received of the Lord, and as good Stewards of the manifold Grace of God, ad<g ref="char:EOLhyphen"/>miniſtred freely; theſe did not ſeek after the <hi>Fleece,</hi> but to ga<g ref="char:EOLhyphen"/>ther the <hi>Flock,</hi> and to <hi>Feed the Flock of God, taking the Overſight thereof not by conſtraint, but willingly; not for filthy Lucre, but of a ready Mind; not as Lords over Gods Heritage, but Examples to the Flock.</hi> But there were ſome in thoſe dayes began to creep in amongſt the Apoſtles, ſuch as Chriſt ſpoke of, <hi>That ſhould come in Sheeps Clothing, but inwardly were ravening Wolves,</hi> whom the Apoſtle ſaid, were <hi>Enemies to the Croſs of Christ, whoſe end was Deſtruction, whoſe God was their Belly, whoſe Glory is their Shame, who mind Earthly things.</hi> And the Apoſtle <hi>Peter</hi> (in 2 Pet 2.23.) ſaid, <hi>There were falſe Prophets amongſt the People, even as there ſhall be falſe Teachers amongſt you, who privily ſhall bring in damnable Hereſie, even denying the Lord that bought them; who with feigned Words and fair Speeches, and through Covetouſneſs make Merchandize of you;</hi> as the ſaid <hi>Thomas Willmate</hi> hath of me, in hunting after me with Writ upon Writ, and hurrying me from Priſon to Priſon, who contented not himſelf in keep<g ref="char:EOLhyphen"/>ing me a Priſoner in <hi>Worceſter</hi>-County-Goal about a year and a half, (becauſe I for Conſcience towards the Lord could not pay him Tythe and Offerings to the Value of Six Shillings; I could not ſo far deny my Lord and Maſter to be come in the Fleſh, as to pay Tythe and Offerings now in theſe Goſpel times, Chriſt being come, who is a Prieſt forever, and the Offering accepta<g ref="char:EOLhyphen"/>ble with the Father. But this Mercileſs man hath removed me
+<pb n="4" facs="tcp:172127:3"/>
+to <hi>London,</hi> to the <hi>Fleet</hi>-Priſon (that my Children might be, as it were, Fatherleſs, who had need of a Father to counſel them) though I never eat of his Bread, nor imploy'd him in any Buſineſs, neither received any thing from him; but he like the falſe Pro<g ref="char:EOLhyphen"/>phets in <hi>Micah</hi> 3.5. <hi>And he that putteth not into their Mouthes, they even prepare War againſt him.</hi> And as <hi>Ezekiel</hi> ſaid, Ezek. 34.2, 3, 4. <hi>Wo be to the Shepherds that do feed themſelves: Should not the Shepherds feed the Flocks? Ye eat the Fat, and clothe you with the Wool, but the Diſeaſed ſtrengthened they not; neither have ye healed them which were Sick; but with Force and with Cruelty have ye ruled them.</hi> The Lord ſaid, <hi>He was againſt the Shepherds that did feed themſelves;</hi> and <hi>he will deliver his Sheep from their Mouthes, that they may not be a Prey unto them any longer.</hi> And I may ſay, out of the hands of ſuch unreaſonable men, the Lord deliver me; yet I can truly ſay, <hi>Father, forgive him; Lord, lay not this Sin to his charge.</hi>
+            </p>
+            <p>
+               <hi>I am a Priſoner at the</hi> Fleet-Priſon, <hi>and am one that loves the good of</hi> Sion, <hi>and deſireth the Proſperity of</hi> Iſrael; <hi>and prayeth, That Truth &amp; Righteouſneſs may be ſet up in the Earth,</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi>
+                  <date>the 26th of the 10th Moneth, 1681.</date>
+               </dateline>
+               <signed>John Boweter.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>A Salutation of Love from a Priſoner for the Teſtimo<g ref="char:EOLhyphen"/>ny of Chriſt Jeſus, to his loving and kind Neighbours.</head>
+            <p>FRiends and Neighbours, in and about <hi>Bromſgrove,</hi> amongſt whom I have had my abode from my Childhood, I under<g ref="char:EOLhyphen"/>ſtanding many of you are concerned for me, and diſſatisfied con<g ref="char:EOLhyphen"/>cerning my preſent Sufferings, which with a Spirit of Meekneſs and Moderation I ſhall endeavour to ſatisfie, if it may be.</p>
+            <p>Now <hi>Friends,</hi> we have all one Maſter, that we muſt either ſtand or fall to; for <hi>we muſt all give an Account to God of our Deeds done in the Body, whether they be Good, or whether they be Evil,</hi> which I deſire to ſtand Approved before. And although ſome may account my Sufferings Frivolous, or out of a Stubborn
+<pb n="5" facs="tcp:172127:3"/>
+Will, I do deſire to appeal unto the Lord, who knoweth the Inte<g ref="char:EOLhyphen"/>grity of my Heart, and that knoweth all things, that it is not in a Stubborn Will, nor in contempt of Authority, but in obedience unto the Lord, to bear a Teſtimony againſt thoſe who profeſs themſelves Miniſters of the Goſpel, &amp; walk contrary to the command of Chriſt, and Examples of the true Miniſters in the Primitive Time. Now it may be ſaid, <hi>That every Soul ought to be ſubject unto the higher Powers;</hi> which my Soul deſires to be, and to ſubmit to Magiſtrates in their places, ſo that I may keep my Conſcience clear unto the Lord; and to pay Tribute to the King, who is ſet over us as a Ruler to defend our Juſt Rights in outward things; but our <hi>Conſcience</hi> we muſt keep clear unto the Lord, for he muſt rule there: for God muſt have his Due as well as <hi>Caeſar</hi> his. We do not read in the Scriptures that it belonged to <hi>Caeſar</hi> to chuſe Prophets or Prieſts in the time of the Law; that was God's Due and Work, and belonged unto him, who made uſe of <hi>Aaron</hi> to be as a Mouth and Prieſt unto <hi>Iſrael;</hi> and choſe the Tribe of <hi>Levi</hi> to perform the Prieſthood under the Law, and gave them the Tenth of the encreaſe, who were to have no other In<g ref="char:EOLhyphen"/>heritance amongſt their Brethren; but the Tenth was their Portion in the old Covenant, who ſtood untill the time of Reformation, and remained for the offering up of Sacrifices, untill Chriſt, the accept<g ref="char:EOLhyphen"/>able Sacrifice, was offered up, <hi>Who offered himſelf up once for all, and put an end to that Prieſthood under the Law, which continued not by reaſon of Death; and ſo ſtands as Prieſt forever, who ever liveth to make Inter<g ref="char:EOLhyphen"/>ceſſion for us,</hi> Heb. 7.23, 24, 25. And ſo this Prieſthood which was maintained by Tythe, <hi>is Changed, and that Law alſo,</hi> verſ. 12. For Chriſt is to be Prophet, Prieſt and Lawgiver; and it is he only and alone that chuſeth Miniſters and fitteth them for his Uſe and Service, and ſends them forth and takes care of them, who <hi>ſent them forth as Lambs amongſt Wolves,</hi> and were not to take thought <hi>what to eat or what to put on,</hi> but to enquire, <hi>Who was worthy,</hi> and <hi>to eat ſuch things as were ſet before them:</hi> They were not to Compel a Tenth of Peoples Labours, for they had no ſuch Command; for that Prieſthood that took Tythe was to ceaſe: Chriſt's Miniſters received Freely of him, and were to adminiſter Freely.</p>
+            <p>And ſo it was not <hi>Caeſars due</hi> nor <hi>place</hi> to chuſe Miniſters &amp; appoint Maintenance for them, but God's and Chriſt's Due: And ſo we muſt give <hi>Caeſar</hi> his Due in outward Things, and <hi>God</hi> and <hi>Chriſt</hi> their Due in ſpiritual Things<g ref="char:punc">▪</g> and in chuſing Miniſters for themſelves, and ap<g ref="char:EOLhyphen"/>pointing
+<pb n="6" facs="tcp:172127:4"/>
+them a Maintenance. The Apoſtle ſaid, <hi>He was not made a Miniſter by the Will of Man, nor received his Goſpel from Man, neither was taught it of Man, but by the Revelation of Jeſus Chriſt,</hi> Gal. 1.1, 11, 12. And the holy Ghoſt ſaid, <hi>Separate</hi> Barnabas <hi>and</hi> Saul <hi>for the Work I have for them to do;</hi> and they were ſent by the holy Ghoſt, <hi>Acts</hi> 13.2, 3, 4. And theſe whom the Lord choſe were not ſent to Schools to learn <hi>Latin, Greek</hi> and <hi>Hebrew</hi> to make them Goſpel-Mi<g ref="char:EOLhyphen"/>niſters, which are but Natural Languages, and then to a Colledge to take their Degrees, as <hi>Batchelors of Art,</hi> and <hi>Maſters of Art,</hi> for Chriſt commanded his Miniſters not to be called <hi>Maſters,</hi> Mat. 23.10. and <hi>Batchelors of Divinity,</hi> and <hi>Doctors of Divinity;</hi> and if they can make Friends with Money, or otherwiſe, they may be made <hi>Lord Biſhops,</hi> or <hi>Deans,</hi> and have Hundreds or Thouſands by the Year; which all is come in ſince the Apoſtles days, and ſince <hi>Popery</hi> came up, in the dark night of Apoſtacy: For we do not read in the Scriptures of Truth of a <hi>Lord Biſhop;</hi> they were not to be <hi>Lords over Gods Heritage,</hi> 1 Pet. 1.1, 2, 3. There you may read, they were not to compel a Tenth of Peoples Labours; but to feed the Flock of God, taking the overſight thereof, not by Conſtraint, but Willingly, not for filthy Lucre, but with a ready Mind: And when the chief Shepherd ſhall appear, they ſhall have a Crown of Life that fadeth not away. But theſe who are made Miniſters by Man, taking their Degrees from Schools and Col<g ref="char:EOLhyphen"/>ledges, they exerciſe Lordſhip over People; he that for Conſcience-ſake cannot anſwer their corrupt Greedy Mind, they ſoon make uſe of a Law againſt them; and it may be for the value of Five or Six Shillings will caſt a man into Priſon, and there keep him, it may be, Moneths, Years, or for term of Life: We do not read of ſuch Pro<g ref="char:EOLhyphen"/>ceedings amongſt the true <hi>Chriſtians.</hi> And they will tell us, <hi>It is the Law that takes hold of us,</hi> like the <hi>Jews,</hi> who were ſtirred up by the chief Prieſts againſt <hi>Chriſt,</hi> our <hi>Lord</hi> &amp; <hi>Maſter,</hi> to put him to Death; <hi>Pilate</hi> finding him a <hi>Juſt Man,</hi> and nothing worthy of Death, they ſaid, <hi>We have a Law, and by our Law he ought to Dye,</hi> John 19.6, 7. Now ſome may ſay, <hi>Do you compare your ſelves to Chriſt?</hi> I ſay, no otherwiſe but as Chriſt our Lord and Maſter, and we his Servants and Followers, who ſaid, <hi>The Servant is not greater than his Lord; they have perſecuted me, and they will perſecute you.</hi> And ſo that is our Por<g ref="char:EOLhyphen"/>tion from theſe that exerciſe Lordſhip over People, that bind heavy Burdens and lay them on mens Shoulders, grievous to be born, and they themſelves not touch them with one of their Fingers.</p>
+            <p>
+               <pb n="7" facs="tcp:172127:4"/>And ſo, <hi>Friends</hi> and <hi>Neighbours,</hi> having ſomething cleared my Spirit, I leave it with you, to conſider well of it; and the deſire of my Soul, and Prayer of my Heart unto the Lord for you, is, <hi>That an underſtanding may be opened in you.</hi> And <hi>loving Neighbours,</hi> I de<g ref="char:EOLhyphen"/>ſire you in the Bowels of Love and Tenderneſs, <hi>That you judge not of things before the Time;</hi> for the Day will diſcover all things, and bring every hidden thing to Light; and then it will be known who are they that ſerve the Lord, and they that ſerve him not; and a ſeparation will be betwixt the Precious and the Vile. And in the mean time I do deſire to reſt ſatisfied in my condition, untill the Lord pleaſe to ſet me Free, which I believe will be in his ap<g ref="char:EOLhyphen"/>pointed time: <hi>He who knows our Grief, and bottleth up our Tears, will Eaſe the Oppreſſed, and ſet the Priſoners Free.</hi> And loving and kind Neighbours, I call you Loving and Kind, becauſe you have been ſo to me, I take my leave of you, and reſt your Friend and Neighbour, willing, in what I may, to ſerye you in Love,</p>
+            <closer>
+               <dateline>
+                  <hi>Worcester</hi>-County-Goal,
+<date>16th of the 8 Mon. 1679.</date>
+               </dateline>
+               <signed>John Boweter.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>WHo goeth a Warfare at his own Charge?</hi> (ſome may ſay) <hi>Are not Miniſters to have a Maintenance? Were not they that waited at the Altar, to partake of the things of the Altar? And is not he that preacheth the Goſpel, to live of the Goſpel? and he that ſoweth Spi<g ref="char:EOLhyphen"/>ritual, to reap Carnal things?</hi>
+            </p>
+            <p>To this I <hi>Anſwer:</hi> He that preacheth the Goſpel is to live of the Goſpel: It doth not ſay, he that preacheth the Goſpel ſhall live of the Law, or Sue men at the Law for a Maintenance; for the Goſpel is a Free Thing, which is the Gift of God, and received Freely, and is not to be bought and ſold for Money, <hi>Acts</hi> 8.18, 19, 20, 21. Now the Apoſtle had a Neceſſity laid upon him, who ſaid, <hi>Wo is to me if I preach not the Goſpel,</hi> 1 Cor. 9.16. yet he was not limitted, but that he might reap Carnal things; <hi>For the Work-man is worthy of his Meat:</hi> But it is not reaſonable to compel it of them that ſet them not at work, neither own their Work. Now he that ſhould come in the Name of the Lord, and have the free Goſpel to declare, and being neceſſitated, I could freely, according to my Ability, adminiſter of my Carnal or Temporal things to him for his Relief. <hi>Farewell.</hi>
+            </p>
+            <closer>
+               <signed>J. B.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:172127:5"/>
+            <l>VVHere Peace of Conſcience from the Lord one Knows,</l>
+            <l>A Priſon like a Palace is to Thoſe;</l>
+            <l>Though Fellons Swear and Goalers Rage,</l>
+            <l>And Drunkards Fight and Quarrel,</l>
+            <l>True Peace from God outſwayes it All,</l>
+            <l>Where Truth is truly Follow'd.</l>
+            <l>Where Conſcience is kept clear to God; though Suffering they Endure,</l>
+            <l>Christ is to them a Recompence, an Inheritance moſt Sure.</l>
+            <l>Though Prieſt and Rulers may Combine</l>
+            <l>Our weakly Bodies to Confine</l>
+            <l>To Priſons cloſe, and Holes remote Aſunder,</l>
+            <l>Our Rock is Chriſt, in whom we truſt, he ſurely will Deliver;</l>
+            <l>He is our Captain, and hath gone Before,</l>
+            <l>Yea, ſore Afflictions he moſt meekly Bore;</l>
+            <l>Vile Contradictions he Alſo,</l>
+            <l>Of Sinners greatly he did Know.</l>
+            <l>And as a Lamb before the Shearers Dumb,</l>
+            <l>So in all Meekneſs he did Overcome.</l>
+            <l>In Glorious brightneſs he doth ſit as King,</l>
+            <l>To render a juſt Recompence to him that ſuffers Wrong;</l>
+            <l>And ſoon muſt all before him Come,</l>
+            <l>To give an account of all things Done:</l>
+            <l>If Well done, into Joy and Comfort Sure,</l>
+            <l>If Ill done, Torment they must Endure.</l>
+            <l>This is our Comfort in all our Suffering,</l>
+            <l>Chriſt is our Captain, and our bleſſed King;</l>
+            <l>He's gone before, who has in ſtore prepar'd a place moſt Sure,</l>
+            <l>For all that ſuffer for his Truth, and in it do Endure:</l>
+            <l>He is the bright and Morning Star,</l>
+            <l>That leads unto a day moſt Clear;</l>
+            <l>Who guides the <g ref="char:V">Ʋ</g>pright in his holy Way,</l>
+            <l>And is to them a perfect Stay.</l>
+            <l>Rejoyce ye Followers of the Lamb, that ſuffer with him in your Day,</l>
+            <l>A Crown of Life, a day of Joy, as ye do follow him alway.</l>
+            <l>Although through pain our outward man may weaken and Decay,</l>
+            <l>In Chriſt, our Lord, our inward man's renewed day by Day.</l>
+            <closer>
+               <dateline>
+                  <hi>Written in</hi> Worcester-<hi>County-Goal,</hi>
+                  <date>
+                     <hi>the 8th Moneth, 1681.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:172127:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
